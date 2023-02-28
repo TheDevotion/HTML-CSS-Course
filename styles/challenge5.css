@@ -1,0 +1,98 @@
+p {
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.apple {
+    text-align: center;
+}
+
+.new {
+    color: red;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.pro {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.super {
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.price {
+    color: grey;
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.buy {
+    background-color: rgb(7, 124, 226);
+    color: white;
+    border-width: 0px;
+    border-radius: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    cursor: pointer;
+    transition: background-color 0.1s;
+}
+
+.buy:hover {
+    background-color: blue;
+}
+
+.stock-price {
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.usd {
+    color: grey;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.stock-green {
+    color: green;
+    margin-bottom: 5px;
+}
+
+.stock-time {
+    color: grey;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.stock-red {
+    color: red;
+    margin-bottom: 5px;
+}
+
+.free-code-camp {
+    font-size: 13px;
+}
+.fcc-website {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.fcc-handle {
+    color: grey;
+    font-weight: lighter;
+}
+.fcc-info {
+    width: 420px;
+    margin-bottom: 10px;
+}
+
+.fcc-blue {
+    color: #26a7de;
+}

@@ -1,0 +1,41 @@
+div{
+    font-family:arial;
+
+}
+.names{
+    padding:8px;
+    margin-bottom:8px;
+    border-radius:5px;
+    border-width:1px;
+    border-style:solid;
+    
+
+}
+
+.email{
+    width:350px;
+    padding:8px;
+    border-radius:5px;
+    border-width:1px;
+    border-style:solid;
+    margin-bottom:8px;
+    display:block;
+}
+
+.sign-up{
+    display:block;
+    width:368px;
+    padding:8px;
+    border-radius:5px;
+    border-width:1px;
+    background-color:rgb(0, 128, 255);
+    color:white;
+    font-weight:bold;
+    cursor:pointer;
+
+}
+
+p{
+    font-family:arial;
+}
+

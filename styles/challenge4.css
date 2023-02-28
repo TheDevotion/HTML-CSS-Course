@@ -1,0 +1,70 @@
+.buttons{
+    padding:5px;
+    
+}
+
+.numbers{
+    margin:5px;
+}
+
+.stretch{
+    background-color:green;
+    border-width:0px;
+    padding:10px;
+    color:white;
+    transition:padding 1s;
+}
+.stretch:hover{
+    padding:30px;
+}
+
+.shadow{
+    background-color:green;
+    border-width:0px;
+    padding:10px;
+    color:white;
+    transition:shadow 0.1s;
+
+}
+
+.shadow:hover{
+
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.295)
+
+}
+.shadow:active{
+
+    background-color:green;
+    border-width:0px;
+    padding:10px;
+    color:white;
+    margin-top:5px;
+    margin-left:5px;
+    box-shadow:none;
+
+}
+
+.stretch-button {
+background-color: green;
+color: white;
+border: none;
+font-size: 18px;
+padding-top: 8px;
+padding-bottom: 8px;
+cursor: pointer;
+
+padding-left: 15px;
+padding-right: 15px;
+margin-left: 10px;
+margin-right: 10px;
+
+transition: padding 0.15s,
+margin 0.15s;
+}
+
+.stretch-button:hover {
+padding-left: 25px;
+padding-right: 25px;
+margin-left: 0px;
+margin-right: 0px;
+}

@@ -1,0 +1,21 @@
+img{
+    width : 200px;
+}
+
+.rectangle{
+    border-radius:10px;
+}
+
+.square{
+    object-fit:cover;
+    width:150px;
+    height:150px;
+}
+
+.circle{
+    object-fit:cover;
+    width:150px;
+    height:150px;
+    border-radius:75px;
+}
+    

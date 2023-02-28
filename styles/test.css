@@ -1,0 +1,38 @@
+.main-grid {
+    display:grid;
+    grid-template-rows: 100px 100px;
+    background-color:gray;
+    column-gap:20px;
+    width:500px;
+}
+
+.cat-photo{
+    background-color:lightblue;
+    width:100%;
+}
+
+.cat-info{
+    background-color:lightgreen;
+}
+
+.cat-name{
+    background-color:aqua;
+
+}
+
+.friend-pic{
+    background-color:pink;
+}
+
+.cat-friends{
+    display:grid;
+    grid-template-columns:30px 1fr;
+}
+
+.no-of-friends {
+    background-color:bisque;
+}
+
+.add-friend{
+    background-color:lavender;
+}

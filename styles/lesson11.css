@@ -1,0 +1,105 @@
+
+.ex11a{
+    display:grid;
+    grid-template-columns: 200px 75px;
+}
+
+.blue-div{
+    background-color:lightblue;
+
+}
+
+.pink-div{
+    background-color:lightpink;
+
+}
+
+.ex11b{
+    display:grid;
+    grid-template-columns: 50px 1fr 50px;
+}
+
+.ex11c {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap:20px;
+    row-gap:10px;
+}
+
+
+p{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+div{
+    display:inline-block;
+}
+
+.fb-cat{
+    display:inline-block;
+
+    height:186px;
+    width:120px;
+    box-shadow:0 0 5px rgba(0,0,0,0.5);
+    font-family:arial;
+    margin:3px;
+    
+}
+.cat{
+    width:120px;
+    height:100px;
+    object-fit:cover;
+   
+}
+
+.animal-name{
+    font-weight:bold;
+    font-size:15px;
+    margin-left:4px;
+
+}
+
+.no-of-friends{
+    font-size:11px;
+    margin-left:5px;
+    vertical-align:middle;
+    color:rgb(96,96,96)
+}
+
+.add-friend{
+    margin-left:4px;
+    background-color:rgb(36, 128, 240);
+    border-width:0px;
+    color:white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius:2px;
+    cursor:pointer;
+}
+
+.blue-eye-cat{
+    width:22px;
+    height:22px;
+    object-fit:cover;
+    border-radius:11px;
+    vertical-align:middle;
+    margin-left:4px;
+}
+
+.cat-name{
+    margin-bottom:5px;
+}
+
+.friends-info{
+    margin-bottom:5px;
+}
+
+.main-grid{
+    display:grid;
+    grid-template-columns:150px 150px 150px;
+    column-gap:10px;
+    
+}

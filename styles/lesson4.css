@@ -1,0 +1,216 @@
+.uber{
+    background-color: black;
+    color: white;
+    padding:10px;
+    cursor:pointer;
+    font-size:12px;
+    transition: opacity 0.20s;
+}
+
+.uber:hover{
+    opacity: 0.8;
+}
+
+.uber:active{
+    opacity:0.6;
+}
+
+
+.amazon{
+    background-color:rgb(255, 216, 20);
+    padding:10px;
+    padding-left:40px;
+    padding-right:40px;
+    border-radius: 15px;
+    border-width:0px;
+    font-weight: bold;
+    font-size:12px;
+    cursor:pointer;
+    transition: background-color 0.20s;
+}
+
+.amazon:hover{
+    background-color:rgb(174, 146, 6);
+}
+
+.amazon:active{
+    background-color:rgb(223, 216, 183);
+}
+
+.github{
+    background-color:rgb(46, 164, 79);
+    color: white;
+    border-width:0px;
+    padding:10px;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:12px;
+    font-weight: bold;
+    transition: box-shadow 0.15s, background-color 0.10s;
+
+}
+
+.github:hover{
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.295)
+
+}
+
+.github:active{
+    background-color:rgb(7, 60, 43)
+}
+
+.bootstrap{
+    background-color:rgb(121,82,179);
+    color:white;
+    padding:10px;
+    padding-left:20px;
+    padding-right:20px;
+    border-width:1px;
+    border-style:solid;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:12px;
+    border-radius:3px;
+    margin-right:10px;
+    transition: background-color 0.15s,opacity 0.10s;
+}
+
+.bootstrap:hover{
+    background-color:rgb(151,82,199);
+}
+
+.bootstrap:active{
+    opacity:0.7;
+}
+.download{
+    background-color: white;
+    border-color:rgb(108,117,125);
+    border-style:solid;
+    border-width:1px;
+    padding:10px;
+    padding-right:15px;
+    padding-left:15px;
+    font-weight: bold;
+    color:rgb(108,117,125);
+    border-radius:4px;
+    font-size:12px;
+    cursor:pointer;
+    transition:background-color 0.15s, color 0.15s,opacity 0.10s;
+
+}
+.download:hover{
+    background-color:rgb(108,117,125);
+    color:white;
+}
+
+.download:active{
+    opacity:0.8;
+}
+
+.linkedin-apply{
+    background-color: rgb(10,102,194);
+    border-color:blue;
+    border-style:solid;
+    border-width:1px;
+    padding:10px;
+    padding-left:30px;
+    padding-right:30px;
+    border-radius:15px;
+    margin-right:10px;
+    color:white;
+    font-weight:bold;
+    font-size:11px;
+    cursor:pointer;
+    transition:background-color 0.15s, opacity 0.10s;
+    
+}
+
+.linkedin-apply:hover{
+    background-color:rgb(7, 31, 101);
+}
+
+.linkedin-apply:active{
+    opacity:0.8;
+}
+
+.linkedin-save{
+    background-color:white;
+    padding:8px;
+    padding-right:15px;
+    padding-left:15px;
+    border-radius:15px;
+    border-width:1px;
+    border-color:rgb(10,102,194);
+    font-weight:bold;
+    color:rgb(10,102,194);
+    transition:background-color 0.15s, border-width 0.15s;
+
+}
+
+.linkedin-save:hover{
+    background-color: rgba(87, 150, 212, 0.521);
+    border-width:2px;
+}
+
+.linkedin-save:active{
+    opacity:0.8;
+}
+
+/*AMAZON PAGE STARTS HERE*/
+
+.link{
+    color:rgb(0,113,133);
+    transition:color 0.15s;
+}
+
+.link:hover{ 
+    color:brown;
+
+}
+
+.price{
+    color:rgb(0,118,0);
+    font-weight:bold;
+    font-size:large;
+}
+
+.add-to-cart{
+    background-color:rgb(255,164,28);
+    height:26px;
+    width:120px;
+    border-radius:13px;
+    border-width:0px;
+    font-size:12px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:background-color 0.15s, opacity 0.10s;    
+            
+}
+
+.add-to-cart:hover{
+    background-color:rgb(145, 89, 6);
+}
+
+.add-to-cart:active{
+    opacity:0.8;
+}
+
+.buy-now{
+    background-color:rgb(255,164,28);
+    height:26px;
+    width:120px;
+    border-radius:13px;
+    border-width:0px;
+    font-size:12px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:background-color 0.15s, opacity 0.10s;  
+}
+.buy-now:hover{
+    background-color:rgb(145, 89, 6);
+}
+
+.buy-now:active{
+
+    opacity:0.8;
+}

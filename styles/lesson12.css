@@ -1,0 +1,53 @@
+.ex12a{
+    display:flex;
+    flex-direction:row;
+    
+}
+.pink{
+    background-color:pink;
+    width:75px;
+}
+
+.blue{
+    background-color:lightblue;
+    width:200px;
+}
+
+.ex12b {
+    display:flex;
+    flex-direction:row;
+}
+.item1{
+    background-color:lightblue;
+    width:50px;
+}
+.item2{
+    background-color:pink;
+    width:50px;
+}
+.item3{
+    background-color:lightblue;
+    width:75px;
+}
+
+.ex12c{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+.ex12d{
+    border-color:solid black;
+    border-width:2px;
+    border-style:sodid;
+    display:flex;
+    flex-direction:row;
+    width:400px;
+    height:100px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    align-items:center;
+    justify-content:space-between;
+    
+}
+
+

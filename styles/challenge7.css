@@ -1,0 +1,92 @@
+
+p{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+div{
+    font-family:arial;
+    
+}
+
+.search{
+   width:120px;
+   padding:8px;
+   border-color:rgb(80, 78, 78);
+   border-width:1px;
+   border-radius:4px;
+   border-style:solid;
+}
+
+.search-google{
+    width:350px;
+    height: 26px;
+    border-color:rgb(80, 78, 78);
+    border-width:0px;
+    border-radius:13px;
+    border-style:solid;
+    border-radius:13px;
+    padding-left:10px;
+    font-size:12px;
+    box-shadow: 0 0 5px rgba(0,0,0, 0.2);
+}
+
+.email{
+    color:rgb(80, 78, 78);
+    margin-bottom:5px;
+    font-size:12px;
+
+}
+
+.input-email{
+    width:294px;
+    margin-bottom:10px;
+
+}
+
+.link-info{
+    color:rgb(80, 78, 78);
+    margin-bottom:10px;
+    font-size:12px;
+}
+
+.agree{
+    background-color:rgb(37, 98, 212);
+    border-width:0px;
+    padding-right:112px;
+    padding-left:112px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color:white;
+    border-radius:20px;
+    cursor:pointer;
+}
+
+
+.cat{
+    object-fit:cover;
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    vertical-align:middle;
+}
+
+.tweet{
+    color:white;
+    background-color:rgb(33, 127, 235);
+    border-width:0px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius:20px;
+    vertical-align:middle;
+    cursor:pointer;
+    
+}
+
+.what-is-happening{
+
+    color:rgb(80, 78, 78);
+    vertical-align:middle;
+}
+

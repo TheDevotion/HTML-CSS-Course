@@ -1,0 +1,95 @@
+
+.fb-cat{
+    display:inline-block;
+
+    height:206px;
+    width:120px;
+    box-shadow:0 0 5px rgba(0,0,0,0.5);
+    font-family:arial;
+    margin:3px;
+    
+}
+.cat{
+    width:120px;
+    height:100px;
+    object-fit:cover;
+   
+}
+
+.animal-name{
+    font-weight:bold;
+    font-size:15px;
+    margin-left:5px;
+
+}
+
+.no-of-friends{
+    font-size:12px;
+    margin-left:5px;
+}
+
+.add-friend{
+    margin-left:5px;
+    background-color:rgb(36, 128, 240);
+    border-width:0px;
+    color:white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius:4px;
+    cursor:pointer;
+}
+
+
+
+.search-google input{
+    width:400px;
+    height: 26px;
+    border-color:rgb(80, 78, 78);
+    border-width:0px;
+    border-radius:13px;
+    border-style:solid;
+    border-radius:13px;
+    padding-left:10px;
+    font-size:12px;
+    box-shadow: 0 0 5px rgba(0,0,0, 0.2);
+    margin-bottom:20px;
+}
+
+
+
+.google-logo img{
+    height:50px;
+    margin-bottom:5px;
+    display:inline-block;
+
+    
+}
+
+.google-home-page{
+    text-align:center;
+    font-family:arial;
+}
+
+.button1{
+    background-color:rgba(197, 190, 190, 0.178);
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-width:0px;
+    border-radius:2px;
+    margin-right:5px;
+}
+
+.button2{
+    background-color:rgba(197, 190, 190, 0.178);
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-width:0px;
+    border-radius:2px;
+}
+

@@ -1,0 +1,91 @@
+.red-square{
+    background-color:red;
+    width:100px;
+    height:100px;
+}
+
+.green-circle{
+    background-color:green;
+    width:100px;
+    height:100px;
+    border-radius:50px;
+}
+
+.service-question{
+
+    font-family:arial;
+    border:1px solid gray;
+    display:inline-block;
+    padding:10px;
+    padding-right:100px;
+    padding-bottom:20px;
+
+   
+}
+
+.youtube-music{
+    font-family:arial;
+    background-color:rgb(40, 39, 39);
+    padding:15px;
+    display:inline-block;
+    color:white;
+}
+
+.install-yt-music{
+    font-weight:bold;
+    font-size:22px;
+}
+
+.yt-music-info{
+    color:gray;
+    font-size:15px;
+}
+
+
+.cat{
+    object-fit:cover;
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    vertical-align:middle;
+    
+}
+
+.tweet{
+    color:white;
+    background-color:rgb(33, 127, 235);
+    border-width:0px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius:20px;
+    vertical-align:middle;
+    cursor:pointer;
+    margin-left:150px;
+    display:inline-block;
+    
+}
+
+.what-is-happening{
+
+    color:rgb(80, 78, 78);
+    vertical-align:middle;
+    
+    display:inline-block;
+}
+
+.twitter{
+
+    width:400px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.24);
+    padding:5px;
+    padding-top:2px;
+    padding-bottom:2px;
+    border-radius:5px;
+
+    font-family:arial;
+
+    
+}
+

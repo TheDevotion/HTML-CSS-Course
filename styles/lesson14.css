@@ -1,0 +1,31 @@
+body {
+    height: 2000px;
+}
+
+.ex14a {
+    background-color: black;
+    color: white;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+.ex14b {
+    background-color: green;
+    color: white;
+    right: 0px;
+    position: fixed;
+    bottom: 0px;
+    width: 100px;
+    top: 0px;
+}
+
+.ex14c {
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+}

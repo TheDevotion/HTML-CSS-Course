@@ -1,0 +1,21 @@
+p{
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    font-family:Montserrat;
+}
+
+.model3{
+    font-weight:bold;
+    font-size:40px;
+    margin-bottom:15px;
+
+}
+
+.order{
+    color:rgb(88, 86, 86);
+}
+
+.touchless{
+    text-decoration:underline;
+}
