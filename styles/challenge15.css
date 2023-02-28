@@ -1,0 +1,43 @@
+body {
+    background-color: gray;
+    height: 3000px;
+}
+
+.shirt-sale {
+    background-color: yellow;
+    height: 400px;
+    width: 300px;
+    position: relative;
+}
+
+.shirt-sale img {
+    height: 100%;
+}
+
+.offer {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    background-color: black;
+    color: white;
+    font-family: arial;
+    padding: 5px 10px 5px 10px;
+}
+
+.add-to-cart {
+    position: absolute;
+    height: 25%;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: rgba(245, 245, 245, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-to-cart button {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+}
